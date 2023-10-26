@@ -56,18 +56,22 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Monolith Hero Logo Slider <a name="about-project"></a>
 
-**Monolith Hero Logo Slider** create a calculator single page application using basic UI design/wireframes 
+**Monolith Hero Logo Slider** created a hero section logo slider using basic UI design/wireframes 
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
 - CSS
+- TailwindCSS
 - Javascript (ES6)
+- React
+- React-slick slider(framework)
 
 ### Tech Stack <a name="tech-stack"></a>
 
 - HTML
 - CSS
 - JavaScript
+- React
 
 <!-- Features -->
 
@@ -138,15 +142,11 @@ Install this project with:
    ```sh
    cd src
    ```
-4. Open the html file
-   ```sh
-   Click and open the html file
-   ```
-5. Please install the node module by running this command on the terminal
+4. Please install the node module by running this command on the terminal
    ```sh
    npm install
    ```
-6. Please run the following to render on the browser
+5. Please run the following to render on the browser
    ```sh
    npm start
    ```
